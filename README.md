@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tpasta21
 - 👀 I’m interested in integrated mechanics
 - 🌱 I’m currently learning the basics of coding
-- 📫 How to reach me at tpasta_21 (discord)
+- 📫 How to reach me: tpasta_21 (discord)
 - ⚡ Fun fact:  I want to be a therapist/counselor
 
 <!---
